@@ -3,12 +3,22 @@
 	"displayName": "Purple in the Dark",
 	"description": "VSCode Dark Theme with Purple colors",
 	"version": "0.0.1",
+	"publisher": "SwaggyPinguin",
 	"engines": {
 		"vscode": "^1.81.0"
 	},
 	"categories": [
 		"Themes"
 	],
+	"keywords": [
+		"Theme",
+		"Dark",
+		"Purple"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SwaggyPinguin/purple-in-the-dark.git"
+	},
 	"contributes": {
 		"themes": [
 			{
