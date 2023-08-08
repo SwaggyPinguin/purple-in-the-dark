@@ -1,0 +1,21 @@
+{
+	"name": "purple-in-the-dark",
+	"displayName": "Purple in the Dark",
+	"description": "VSCode Dark Theme with Purple colors",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.81.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Purple in the Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/purple-in-the-dark-color-theme.json"
+			}
+		]
+	}
+}
